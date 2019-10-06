@@ -1,5 +1,7 @@
 # Simple-Calculator
 A simple calculator that that does exactly what a calculator does, it calculates.
+
+
 Steps to execute this calculator:
 
    * Download the entire code
