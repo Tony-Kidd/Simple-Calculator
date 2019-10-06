@@ -1,6 +1,6 @@
 body{
 	font-family: 'Open Sans',sans-serif;
-	background-color: black;
+	background-image: url(https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F3%2Fd%2F3%2F493106-cool-rainbow-backgrounds-1920x1200-for-samsung-galaxy.jpg&f=1&nofb=1);
 }
 #container{
 	width: 1000px;
@@ -11,7 +11,7 @@ body{
 #calculator{
 	width: 320px;
 	height: 520px;
-	background-color: #eaedef;
+	background-color: #808080;
 	margin: 0 auto;
 	top: 20px;
 	position: relative;
@@ -27,13 +27,14 @@ body{
 	margin: 0 20px;
 	padding-top: 20px;
 	font-size: 15px;
-	color: #919191;
+	color: #000000;
 }
 #output{
 	text-align: right;
 	height: 60px;
 	margin: 10px 20px;
-	font-size: 30px;
+	font-size: 40px;
+	
 }
 #keyboard{
 	height: 400px;
@@ -46,10 +47,11 @@ body{
 	border-radius: 50%;
 	border-width: 0;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 25px;
+	background-color:#ff38d8;
 }
 .number, .empty{
-	background-color: #eaedef;
+	background-color: #2fff00;
 }
 .number, .operator{
 	cursor: pointer;
@@ -62,21 +64,21 @@ body{
 }
 button:nth-child(4){
 	font-size: 20px;
-	background-color: #20b2aa;
+	background-color: #1afef2;
 }
 button:nth-child(8){
 	font-size: 20px;
-	background-color: #ffa500;
+	background-color: #ffd113;
 }
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #f08080;
+	background-color: #fb2828;
 }
 button:nth-child(16){
 	font-size: 20px;
-	background-color: #7d93e0;
+	background-color: #2253ff;
 }
 button:nth-child(20){
 	font-size: 20px;
-	background-color: #9477af;
+	background-color: #9a2dff;
 }
